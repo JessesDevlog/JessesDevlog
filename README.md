@@ -20,7 +20,12 @@ I build efficient and effective game mechanics as well as collaborative, real-ti
 • [No Survivors](https://store.steampowered.com/app/3500350/No_Survivors/) 
 • [The Art Collector](https://store.steampowered.com/app/2986690/The_Art_Collector/?curator_clanid=45012716)
 
-Private repos for now—tooling and pipeline modules coming soon.
+Private repos for now | Tooling and pipeline modules coming soon.
+
+Take a sneak peek at the Godot Built UI-Web App for Indie Studios.
+-Public facing section for studio portfolio/developer bios
+-Authenticated/private section for developer task tracking, assignment and automated bug reporting straight from your game to your back end database!
+• [WIP - Indie Studio Management UI (Web App)](https://shyborg-games-dev-web.onrender.com/))
 
 <!--
 **JessesDevlog/JessesDevlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
