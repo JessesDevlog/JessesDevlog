@@ -1,10 +1,20 @@
 ## 🎮 Lead developer at Shyborg Games • Backend strategist • Full-Stack Developer
 
-I build efficient and effective game mechanics as well as collaborative, real-time platforms for game development—automated, secure, and developer-friendly. From scene hygiene to deployment pipelines, I architect tools that scale.
-
 🛠️ Fluent in GDScript, PHP, PostgreSQL, and shell scripts. (Experienced in VBA, Python, Javascript, C++)               
 🔍 Passionate about asset validation, debug overlays, and workflow automation  
 🚀 Clean code, clean commits, zero orphaned nodes
+
+I build efficient and effective game mechanics as well as collaborative, real-time platforms for game development—automated, secure, and developer-friendly. From scene hygiene to deployment pipelines, I architect tools that scale.
+
+🧰 [Indie Studio Dev Tool (Task Data)](https://github.com/JessesDevlog/Example-Scripts/blob/main/ShyborgGames-DevTool.gd)  
+- Modular task struct with timestamp logic  
+- Real-time feedback for collaborative pipelines  
+- Designed for internal asset tracking across projects
+
+🏃 [NPC Movement](https://github.com/JessesDevlog/Example-Scripts/blob/main/No%20Survivors%20-%20NPC_Movement.gd)  
+- Basic patrol and idle behaviors  
+- Directional facing and animation sync  
+- Debug visualization helpers for movement states
 
 📦 Check out our games on Steam:  
 • [No Survivors](https://store.steampowered.com/app/3500350/No_Survivors/) 
