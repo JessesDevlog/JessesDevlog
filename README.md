@@ -6,7 +6,7 @@
 
 I build efficient and effective game mechanics as well as collaborative, real-time platforms for game development—automated, secure, and developer-friendly. From scene hygiene to deployment pipelines, I architect tools that scale.
 
-🧰 [Indie Studio Dev Tool (Task Data)](https://github.com/JessesDevlog/Example-Scripts/blob/main/IndieGameStudio-DevTool)  
+🧰 [Indie Studio Dev Tool (Task Data)](https://github.com/JessesDevlog/Example-Scripts/blob/main/IndieGameStudio-DevTool.gd)
 - Modular task struct with timestamp logic  
 - Real-time feedback for collaborative pipelines  
 - Designed for internal asset tracking across projects
